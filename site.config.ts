@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8f351c11c8694ff48670a31a7b1efe5d',
+  rootNotionPageId: 'd282b135b4c54f2986973e193613565b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'CV工程师笔记',
-  domain: 'https://enormous-teacher-6ed.notion.site/8f351c11c8694ff48670a31a7b1efe5d',
+  domain: 'https://enormous-teacher-6ed.notion.site/d282b135b4c54f2986973e193613565b',
   author: 'QAQ',
 
   // open graph metadata (optional)
